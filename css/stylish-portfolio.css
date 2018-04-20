@@ -97,7 +97,6 @@ h6 {
   font-size: 4rem;
   margin: 0;
   padding: 0;
-  filter: invert(1);
 }
 
 @media (min-width: 992px) {
@@ -106,7 +105,6 @@ h6 {
   }
   .masthead h1 {
     font-size: 5.5rem;
-    filter: invert(1);
   }
 }
 
