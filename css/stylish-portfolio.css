@@ -97,7 +97,6 @@ h6 {
   font-size: 4rem;
   margin: 0;
   padding: 0;
-  color: transparent;
   filter: invert(1);
 }
 
@@ -107,7 +106,6 @@ h6 {
   }
   .masthead h1 {
     font-size: 5.5rem;
-    color: transparent;
     filter: invert(1);
   }
 }
