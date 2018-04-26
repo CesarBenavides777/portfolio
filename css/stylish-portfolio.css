@@ -99,6 +99,10 @@ h6 {
   padding: 0;
 }
 
+.masthead h3 {
+  color: white;
+}
+
 @media (min-width: 992px) {
   .masthead {
     height: 100vh;
